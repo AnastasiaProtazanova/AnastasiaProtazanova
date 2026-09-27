@@ -140,7 +140,7 @@
 |---|---|
 | Скриншоты | [Скриншоты/Проект 1](https://github.com/AnastasiaProtazanova/AnastasiaProtazanova/tree/main/Скриншоты/Проект%201) |
 | Примеры кода | [Коды/Проект 1](https://github.com/AnastasiaProtazanova/AnastasiaProtazanova/tree/main/Коды/Проект%201) |
-| Конфигурация |  |
+| Конфигурация | [Конфигурации/Проект 1](https://github.com/AnastasiaProtazanova/AnastasiaProtazanova/blob/main/Конфигурации/Проект%201/Управление%20ИТ-фирмой.cf) |
 
 **Технологии**
 
