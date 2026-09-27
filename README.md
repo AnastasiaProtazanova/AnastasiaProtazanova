@@ -139,8 +139,8 @@
 | Описание | Ссылка |
 |---|---|
 | Скриншоты | [Скриншоты/Проект 1](https://github.com/AnastasiaProtazanova/AnastasiaProtazanova/tree/main/Скриншоты/Проект%201) |
-| Примеры кода |  |
-| Конфигурация | [Конфигурации/Configuration.xml](https://github.com/AnastasiaProtazanova/AnastasiaProtazanova/blob/main/Конфигурации/Configuration.xml) |
+| Примеры кода | [Коды/Проект 1](https://github.com/AnastasiaProtazanova/AnastasiaProtazanova/tree/main/Коды/Проект%201) |
+| Конфигурация |  |
 
 **Технологии**
 
